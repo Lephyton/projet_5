@@ -12,7 +12,7 @@ Qui souhaite via un moteur entrer un aliment et avoir en retour une proposition 
 1. Recherche d'aliments dans la base Open Food Facts.
 2. Le programme propose substitut, description, magasin ou l'acheter et un lien vers la page d'Open Food Facts.
 3. L'utilisateur interagit avec le programme dans le terminal/interface graphique.
-4. Vérification des informations saisie par le client (si le client entre un caractère qui n'est pas un chiffre, le programme doit lui répéter la question)
+4. Vérification des informations saisie par le l'utilisateur (si le client entre un caractère qui n'est pas un chiffre, le programme doit lui répéter la question)
 5. La recherche doit s'effectuer sur une base MySql
 6. Enregistrement des données dans la base de données.
 
